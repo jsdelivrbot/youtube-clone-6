@@ -9,16 +9,18 @@ A baby YouTube clone to continue learning [React](https://reactjs.org/). Request
 You'll need Yarn or npm installed. 
 
 ```
-npmjs.com
+[npm](https://www.npmjs.com/)
 ```
 
 ```
-yarnpkg.com
+[Yarn](https://yarnpkg.com/en/)
 ```
 
 You'll also need to have a [YouTube API key](https://developers.google.com/youtube/).
 
 ### Installing
+
+Run:
 
 ```
 npm install

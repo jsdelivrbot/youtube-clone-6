@@ -24,7 +24,7 @@ or
 yarn install
 ```
 
-## Running the Project
+### Running the Project
 
 To run the project, you need to create a `.env` file in the root directory. In this file, add `YOUTUBE_API_KEY=YOUR_API_KEY` where `YOUR_API_KEY` is replaced by the YouTube API key you received after signing up [here](https://developers.google.com/youtube/).
 
